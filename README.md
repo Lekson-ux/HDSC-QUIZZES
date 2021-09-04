@@ -1,2 +1,2 @@
-# HDSC_STAGEB_QUIZ
-Codes used in Hamoye Data Science stage B Quiz
+# HDSC Quizzes
+Codes used in Hamoye Data Science  Quizzes
